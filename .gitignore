@@ -1,0 +1,4 @@
+﻿all_code_examples/**/__MACOSX
+all_code_examples/**/.idea
+*/.idea
+*/out
